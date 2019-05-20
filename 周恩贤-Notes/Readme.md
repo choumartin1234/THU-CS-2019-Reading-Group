@@ -17,10 +17,9 @@ Coin question (Discrete)
 Define latent variable $z$ , indicate the result
 + Find z given which (and P1 and P2) the result is the most probable(MLE)(M step)
 + Calculate P1 and P2 using the new z(E step)
-1. 数据标识不权
 
 Gauss distribution
-![](1.jpg)
+![](pic/1.jpg)
 + culate gamma(E step)
 + Calculate mu, sigma and pi
 
@@ -40,6 +39,6 @@ The above two methods are equivalent
 + AI的程序简单, 关键点在数学 (优化算法?)
 
 ### 问问why ? (方法特点、何时适用)
-+ unsupervised learning : clustering, dr 解决 N 跟 D 的关系
++ This week - unsupervised learning : clustering, dr
 + 样本数量 、空间维数、 特征维数、 线性、 非线性
 + 基本思想很重要
