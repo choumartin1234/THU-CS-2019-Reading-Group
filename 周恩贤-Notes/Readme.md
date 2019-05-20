@@ -19,7 +19,8 @@ Define latent variable $z$ , indicate the result
 + Calculate P1 and P2 using the new z(E step)
 
 Gauss distribution
-![](pic/1.jpg)
+
+![](pic/1.JPG)
 + culate gamma(E step)
 + Calculate mu, sigma and pi
 
