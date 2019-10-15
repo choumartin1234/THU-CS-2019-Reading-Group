@@ -1,5 +1,7 @@
 # This is the reading note of EnHsien Chou, CST 86
 
+## 2019.10.13 
++ 负责了GAN的主讲。相关ppt已经上传
 
 ## 2019.05.19 - Clustering & Dimension Reduce
 ## Clustering : 分集合 
